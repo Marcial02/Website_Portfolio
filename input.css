@@ -1,0 +1,51 @@
+
+
+
+
+@font-face {
+    font-family: Astro ;
+    src: url('web_assets/font/astro-font/Astro-ZV68J.ttf') format('truetype');
+}
+@font-face {
+    font-family: Hacked ;
+    src: url('web_assets/font/hacked-font/Hacked-KerX.ttf') format('truetype');
+
+}
+@font-face {    
+    font-family: Riosark ;
+    src: url('web_assets/font/riosark-font/riosarkregular-zpglb.otf') format('opentype');
+}
+@font-face {
+    font-family: Toxigenesis ;
+    src: url('web_assets/font/toxigenesis/toxigenesis\ bd.otf') format(opentype);
+}
+
+@font-face {
+    font-family: Neiko ;
+    src: url('web_assets/font/neiko-regular-font/NeikoRegular-XGMP2.otf') format(opentype);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+    --font-EB-Garamond: "EB Garamond", "sans-serif"; 
+    --font-Astro: "Astro", "sans-serif";
+    --font-Riosark: "Riosark", "sans-serif";
+    --font-Hacked: "Hacked", "sans-serif";
+    --font-Toxigenesis: "Toxigenesis", "sans-serif";
+    --font-Neiko: "Neiko", "sans-serif";
+
+--color-Cyan-Neon:	#38FFEA;
+--color-Violet-Neon:	#FF34AA;
+--color-Gray-Dark:	#3F3F3F;
+--color-Black-Background:	#0F0F0F;
+--color-Black-Light:	#121212;
+--color-Gray-Button:	#272727;
+--color-Violet-Neon-Dark:  rgb(66, 0, 37);
+
+
+  
+    }
+  

@@ -1,0 +1,98 @@
+.cyber1 {
+    background-image: url(web_assets/image/cyberpunk-illustration-with-neon-colors-futuristic-technology.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber2 {
+    background-image: url(web_assets/image/cool-geometric-triangular-hallway-3d-rendering.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber3 {
+    background-image: url(web_assets/image/corridor-stretches-into-darkness-dotted-with-lights-leading-distant-glow.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber4 {
+    background-image: url(web_assets/image/cyberpunk-illustration-with-neon-colors-futuristic-technology.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber5 {
+    background-image: url(web_assets/image/cyberpunk-urban-scenery.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber6 {
+    background-image: url(web_assets/image/fantasy-style-half-fox-half-robot.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber7 {
+    background-image: url(web_assets/image/half-fox-half-robot-fantasy-style.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+.cyber8 {
+    background-image: url(web_assets/image/illustration-rain-futuristic-city.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.cyber9 {
+    background-image: url(web_assets/image/view-city-street-night.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.enear {
+    background-image: url(web_assets/image/gif1.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.artProfile {
+    background-image: url(web_assets/image/Huniyango\ Profile\ without\ bg.png);
+    background-attachment: fixed;
+    background-size: 450px auto;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+
+}
+
+/* .trueProfile {
+    background-image: url(web_assets/image/trueprofile.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+} */
+
+.cyberTag {
+    background-image: linear-gradient(to top right, #14ffdc, rgba(20, 255, 204, 0));
+    background-attachment: fixed;
+    background-size: 500px 90px;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    
+    
+}
+
+
+
